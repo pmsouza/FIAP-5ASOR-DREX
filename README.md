@@ -155,12 +155,19 @@ Outro ponto que consideramos como ponto de atenção é a possível falta de ade
 **13. Faça uma descrição de cada um dos componentes que você desenhou**
 
 **- Front:** aplicação nativa Android e iOS.
+
 **- Identity:** servidor de identidade responsável pela autenticação e autorização dos usuários da aplicação.
+
 **- API Gateway:** componente responsável pela criação, publicação, manutenção, monitoramento e proteção de APIs.
+
 **- BFF:** componente backend responsável por entregar experiência específica para cada dispositivo, melhorando a experiência dos usuários finais. Além disso, é a camada responsável pela autorização.
+
 **- Cache:** Banco de dados em memória para armazenamento de rápido acesso e de curta duração.
+
 **- Serviço DREX:** Serviço núcleo, onde constam as regras de negócio e os fluxos de negócio.
+
 **- NoSQL:** Banco de dados não-relacional para armazenamento das entidades do serviço DREX.
+
 **- Rede do Sistema Financeiro Nacional:** estrutura de comunicação de dados que tem por finalidade amparar o tráfego de informações no âmbito do SFN para serviços autorizados pelo Banco Central do Brasil.
 
 **14. Descreva os requisitos que você (s) considera importante e por quê? (Mínimo 5)**
