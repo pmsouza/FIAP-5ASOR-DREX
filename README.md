@@ -3,9 +3,9 @@ MBA FIAP (Arquitetura de Soluções) - Trabalho de Conclusão de Arquitetura da 
 
 Leonardo Carneiro Pinho
 EQUIPE
-Anderson Luís Lins Rocha
-Carlos Correa
-Fabio Ferreira da Silva
-Giliane Maciel do Vale
-Michael André Santos Brito
-Renato Hideyoshi Tamanaha
+- Alex Souza Silva
+- Eudes Machado
+- Flávia Mendanha
+- Phillipe Mutschaeweski
+- Sandro Pinheiro Lopes
+
