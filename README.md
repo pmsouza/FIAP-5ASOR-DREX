@@ -68,6 +68,7 @@ O Brasil iniciou os estudos para o lançamento do DREX em 2020. Em março de 202
 Abaixo, a visão dos principais marcos de implantação do DREX:
 
 <img width="557" alt="img-roadmap-drex" src="https://github.com/user-attachments/assets/d0024d21-6235-4316-933d-0c545b4a61df">
+_Fonte: Sensedia (Entenda o que é o Drex, o Real Digital, e os seus impactos para o setor financeiro)_
 
 **1. Montar um Story Telling sobre o problema que você resolve e definir o tema**
 
@@ -133,7 +134,8 @@ O pior cenário seria uma falha de segurança na tecnologia do DREX, resultando 
 
 Outro ponto que consideramos como ponto de atenção é a possível falta de adesão por parte das empresas, devido a problemas de usabilidade ou regulamentação, também poderia limitar o impacto da moeda. Uma pesquisa realizada em agosto de 2024, aponta que 35% das empresas estão se preparando para a chegada do DREX, buscando identificar casos de uso e pesquisando adequações que serão necessárias para a adoção da versão digital do real (link mencionado na seção Fontes de estudo e pesquisa deste material).
 
-12. Desenhe uma arquitetura (Modelo Freeform - Versão inicial)
+**12. Desenhe uma arquitetura (Modelo Freeform - Versão inicial)**
 
+![img-q12-freeform](https://github.com/user-attachments/assets/121650c9-ea6e-46e0-a975-3c4d70bcb07f)
 
 
