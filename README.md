@@ -9,8 +9,6 @@ EQUIPE
 - Phillipe Mutschaeweski
 - Sandro Pinheiro Lopes
 
-Link da gravação na plataforma da FIAP
-
 **CONTEXTO GERAL**
 
 Atualmente, mais de 130 países e uniões monetárias, representando 98% do PIB global, estão explorando Central Bank Digital Currencies, ou Moeda Digital Emitida por Banco Central, em tradução livre. 
@@ -235,4 +233,32 @@ Não, uma vez que já está em um formato o mais enxuto possível de forma que n
 - Por que o Banco Central precisa das instituições financeiras? Quais seriam os impactos para a economia se não participassem?
 - A popularização do DREX pode facilitar a reforma tributária?
 
+**23. Que decisões sua equipe teve dificuldade para tomar?**
 
+- Quais seriam as possíveis formas de monetização da solução.
+- Qual seria a melhor forma de hospedar os serviços (On-premises, Cloud ou Híbrido)
+- Quais portes de empresa (tamanho) e segmentos seriam nosso público-alvo inicial.
+
+**24. Quais decisões foram tomadas sob incerteza?**
+
+- O time to market desejado foi elaborado sem uma data prevista de implantação do DREX pelo banco central do Brasil.
+- A solução proposta foi desenhada ciente que a regulamentação para operação do DREX ainda não está pronta e que poderá sofrer muitas mudanças durante o piloto.
+
+**25. Houve algum ponto de decisão sem retorno que o forçou a desistir de uma determinada escolha?**
+
+Não, uma vez que nos baseamos na documentação do DREX fornecida pelo Banco Central do Brasil.
+
+**26. Desenhe 3 arquiteturas com o projeto que você desenvolveu na aula em cada uma das camadas do C4? (Subir somente a imagem jpg/jpeg)**
+
+**27. Nível Contexto**
+
+**28. Nível Container**
+
+**29. Nível Componente**
+
+**30. Code (Opcional)**
+
+**31. Validar no checklist (opcional)**
+
+**32. Gravar um vídeo explicando o projeto como um todo e desenhos.** 
+Link da gravação na plataforma da FIAP
