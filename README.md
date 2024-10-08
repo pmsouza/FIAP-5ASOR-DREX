@@ -74,30 +74,37 @@ _Fonte: Sensedia (Entenda o que é o Drex, o Real Digital, e os seus impactos pa
 **1. Montar um Story Telling sobre o problema que você resolve e definir o tema**
 
 **Tema do Trabalho**
+
 Pagamentos Instantâneos entre empresas utilizando DREX (Real Digital)
 
 **Problema a ser resolvido**
+
 Imagine que uma pequena empresa no Brasil precisa pagar um fornecedor local rapidamente para garantir o envio de mercadorias. No entanto, os métodos tradicionais de pagamento, como boletos ou transferências bancárias via DOC/TED, podem ser lentos, além de custar taxas significativas. A empresa enfrenta atrasos, o que prejudica sua cadeia de suprimentos e o relacionamento com os fornecedores. 
 
 **Proposta de Solução**
+
 O DREX permite que essa empresa realize transferências de dinheiro entre instituições financeiras utilizando contratos inteligentes de forma instantânea, 24 horas por dia, 7 dias por semana. As transações ocorrem diretamente entre as partes por meio de uma infraestrutura segura baseada em blockchain, com custos reduzidos e maior agilidade, garantindo que o fluxo de produtos e serviços não seja interrompido.
 
 **2. O que esperamos aprender com este projeto?**
+
 Queremos entender como o DREX pode transformar as transações financeiras entre empresas no Brasil, otimizando prazos, reduzindo custos e eliminando ineficiências. Além disso, aprender como a implementação do DREX pode facilitar a gestão de caixa, melhorar a previsibilidade financeira e proporcionar maior segurança para as empresas.
 
 **3. Que perguntas precisamos que sejam respondidas?**
+
 - Como o DREX pode reduzir os custos de transações entre empresas no Brasil?
 - Quais são os principais desafios de adoção do DREX no mercado nacional?
 - Quais os impactos sobre a competitividade das pequenas e médias empresas?
 - Como o DREX garante a segurança e integridade das transações financeiras?
 
 **4. Quais são os nossos principais riscos?**
+
 - Baixa adoção por parte das empresas, especialmente pequenas e médias, que podem ter receio em adotar uma nova tecnologia.
 - Possíveis falhas técnicas ou de segurança no sistema, como ataques cibernéticos ou erros operacionais.
 - Mudanças regulatórias que possam aumentar custos ou complexidade no uso da moeda digital.
 - Desconfiança por parte de fornecedores ou parceiros comerciais.
 
 **5. Plano para aprender o que precisamos para responder a perguntas específicas:**
+
 - Realizar pesquisas de mercado para entender a aceitação e as barreiras percebidas pelas empresas no uso do DREX.
 - Implementar projetos piloto com empresas de diferentes setores para verificar a viabilidade técnica e comercial da solução.
 - Conduzir entrevistas com stakeholders e especialistas financeiros para avaliar os benefícios e desafios do sistema.
@@ -105,32 +112,38 @@ Queremos entender como o DREX pode transformar as transações financeiras entre
 - Benchmarking com outras instituições financeiras que participam do piloto liderado pelo Banco Central do Brasil (BACEN) cujo foco é o atacado.
 
 **6. Plano para reduzir riscos:**
+
 - Desenvolver programas de capacitação para que as empresas aprendam a utilizar o DREX com segurança.
 - Realizar auditorias constantes para garantir que a segurança do sistema esteja sempre atualizada e preparada contra ataques.
 - Engajar com reguladores para garantir que o DREX atenda às normativas existentes e se ajuste a futuras regulamentações.
 - Criar uma campanha de conscientização para educar as empresas sobre os benefícios do DREX e como ele pode otimizar seus negócios.
 
 **7. Quem são as partes interessadas?**
+
 - Banco Central do Brasil como regulador e emissor do DREX.
 - Empresas de pequeno, médio e grande porte que realizam transações financeiras frequentes.
 - Fornecedores de soluções de pagamento que podem integrar o DREX em suas plataformas.
 - Instituições financeiras que querem oferecer novos produtos baseados no Real Digital.
 
 **8. O que eles esperam ganhar?**
+
 - Banco Central: Modernização do sistema financeiro e aumento da eficiência econômica.
 - Empresas: Redução de custos operacionais e maior agilidade no pagamento de fornecedores e parceiros.
 - Fornecedores de pagamento: A oportunidade de inovar em suas plataformas e atrair mais clientes.
 - Instituições financeiras: Novas linhas de negócios com a oferta de soluções ligadas ao DREX.
 
 **9. Quem são os usuários?**
+
 - Empresas que precisam realizar transferências instantâneas de dinheiro. Exemplo: pagamento de seus fornecedores.
 - Empresas que buscam eficiência em suas operações financeiras e redução de custos.
 - Instituições financeiras que querem participar do ecossistema do DREX, oferecendo novas soluções.
 
 **10. O que eles estão tentando realizar?**
+
 Os usuários desejam realizar pagamentos rápidos, seguros e de baixo custo para melhorar suas operações financeiras, garantindo que seus fluxos de caixa estejam sempre em dia, sem interrupções devido a prazos longos ou taxas elevadas.
 
 **11. Qual o pior que pode acontecer?**
+
 O pior cenário seria uma falha de segurança na tecnologia do DREX, resultando em perdas financeiras ou interrupção no sistema de pagamentos. Isso poderia prejudicar a confiança no Real Digital e afastar empresas da adoção da solução. 
 
 Outro ponto que consideramos como ponto de atenção é a possível falta de adesão por parte das empresas, devido a problemas de usabilidade ou regulamentação, também poderia limitar o impacto da moeda. Uma pesquisa realizada em agosto de 2024, aponta que 35% das empresas estão se preparando para a chegada do DREX, buscando identificar casos de uso e pesquisando adequações que serão necessárias para a adoção da versão digital do real (link mencionado na seção Fontes de estudo e pesquisa deste material).
@@ -140,6 +153,7 @@ Outro ponto que consideramos como ponto de atenção é a possível falta de ade
 ![img-q12-freeform](https://github.com/user-attachments/assets/121650c9-ea6e-46e0-a975-3c4d70bcb07f)
 
 **13. Faça uma descrição de cada um dos componentes que você desenhou**
+
 **- Front:** aplicação nativa Android e iOS.
 **- Identity:** servidor de identidade responsável pela autenticação e autorização dos usuários da aplicação.
 **- API Gateway:** componente responsável pela criação, publicação, manutenção, monitoramento e proteção de APIs.
@@ -154,47 +168,60 @@ Outro ponto que consideramos como ponto de atenção é a possível falta de ade
 **Requisitos Funcionais Influentes (RFI)**
 
 **REQ 1 - Registro e Autenticação de Empresas**
+
 Cadastro e autenticação segura das empresas no sistema, com uso de assinatura digital ou autenticação multifator.
 
 **REQ 2 - Transações Instantâneas**
+
 Suporte a transações financeiras instantâneas entre empresas, com confirmação em tempo real e funcionamento 24/7.
 
 **REQ 3 - Autorização e Aprovação de Pagamento**
+
 Para permitir que exista um fluxo de controle dos pagamentos por pessoas autorizadas da empresa emissora.
 
 **REQ 4 - Processamento Instantâneo da Transação**
+
 Visando possibilitar que os pagamentos sejam mais ágeis e realizados de forma online.
 
 **REQ 5 - Conciliação e Registro da Transação**
+
 Para possibilitar que, logo que a transação concluída, os saldos do DREX de ambas as empresas sejam atualizados, haja rastreabilidade das transações efetuadas e ocorra a sensibilização dos ERPs das duas empresas.
 
 **15. Sobre o que o diagrama ajuda você a raciocinar/pensar?**
+
 Quais são os principais componentes envolvidos na solução.
 Como o problema em questão foi dividido em partes menores.
 Quais são os envolvidos diretamente e indiretamente na solução.
 
 **16. Quais são os padrões essenciais no diagrama?**
+
 Padrão de segmentação por camadas (Apresentação, Autenticação/Autorização, Cache, Camada de negócio e a rede DREX).
 
 **17. Existem padrões ocultos?**
+
 Os seguintes elementos não estão explícitos no desenho:
 
 - Padrão EDA (Event Driven Architecture) para mensageria e integração com os demais sistemas interessados nos eventos.
 - Utilização de Data Lake e Big Data para repositório de dados corporativo e utilização de Analytics.
 
 **18. Qual é o Metamodelo?**
+
 O metamodelo utilizado foi o C4.
 
 **19. Pode ser discernido no diagrama único?**
+
 Não pode ser discernido pois o diagrama C4 requer ao menos 3 níveis para representar a solução.
 
 **20. O diagrama está completo?**
+
 Não, uma vez que há itens de infraestrutura e tecnologia que não estão representados no diagrama. 
 
 **21. Poderia ser simplificado e ainda assim ser eficaz?**
+
 Não, uma vez que já está em um formato o mais enxuto possível de forma que não haja perda de informações relevantes.
 
 **22. Houve alguma discussão importante que vocês tiveram como equipe?**
+
 - Qual a diferença entre Drex e Real Tokenizado?
 - Qual seria o modelo de negócio que iríamos seguir para utilização do DREX.
 - Como a utilização de uma moeda digital pode diminuir fraudes fiscais.
