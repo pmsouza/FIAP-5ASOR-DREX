@@ -68,6 +68,7 @@ O Brasil iniciou os estudos para o lançamento do DREX em 2020. Em março de 202
 Abaixo, a visão dos principais marcos de implantação do DREX:
 
 <img width="557" alt="img-roadmap-drex" src="https://github.com/user-attachments/assets/d0024d21-6235-4316-933d-0c545b4a61df">
+
 _Fonte: Sensedia (Entenda o que é o Drex, o Real Digital, e os seus impactos para o setor financeiro)_
 
 **1. Montar um Story Telling sobre o problema que você resolve e definir o tema**
@@ -137,5 +138,67 @@ Outro ponto que consideramos como ponto de atenção é a possível falta de ade
 **12. Desenhe uma arquitetura (Modelo Freeform - Versão inicial)**
 
 ![img-q12-freeform](https://github.com/user-attachments/assets/121650c9-ea6e-46e0-a975-3c4d70bcb07f)
+
+**13. Faça uma descrição de cada um dos componentes que você desenhou**
+**- Front:** aplicação nativa Android e iOS.
+**- Identity:** servidor de identidade responsável pela autenticação e autorização dos usuários da aplicação.
+**- API Gateway:** componente responsável pela criação, publicação, manutenção, monitoramento e proteção de APIs.
+**- BFF:** componente backend responsável por entregar experiência específica para cada dispositivo, melhorando a experiência dos usuários finais. Além disso, é a camada responsável pela autorização.
+**- Cache:** Banco de dados em memória para armazenamento de rápido acesso e de curta duração.
+**- Serviço DREX:** Serviço núcleo, onde constam as regras de negócio e os fluxos de negócio.
+**- NoSQL:** Banco de dados não-relacional para armazenamento das entidades do serviço DREX.
+**- Rede do Sistema Financeiro Nacional:** estrutura de comunicação de dados que tem por finalidade amparar o tráfego de informações no âmbito do SFN para serviços autorizados pelo Banco Central do Brasil.
+
+**14. Descreva os requisitos que você (s) considera importante e por quê? (Mínimo 5)**
+
+**Requisitos Funcionais Influentes (RFI)**
+
+**REQ 1 - Registro e Autenticação de Empresas**
+Cadastro e autenticação segura das empresas no sistema, com uso de assinatura digital ou autenticação multifator.
+
+**REQ 2 - Transações Instantâneas**
+Suporte a transações financeiras instantâneas entre empresas, com confirmação em tempo real e funcionamento 24/7.
+
+**REQ 3 - Autorização e Aprovação de Pagamento**
+Para permitir que exista um fluxo de controle dos pagamentos por pessoas autorizadas da empresa emissora.
+
+**REQ 4 - Processamento Instantâneo da Transação**
+Visando possibilitar que os pagamentos sejam mais ágeis e realizados de forma online.
+
+**REQ 5 - Conciliação e Registro da Transação**
+Para possibilitar que, logo que a transação concluída, os saldos do DREX de ambas as empresas sejam atualizados, haja rastreabilidade das transações efetuadas e ocorra a sensibilização dos ERPs das duas empresas.
+
+**15. Sobre o que o diagrama ajuda você a raciocinar/pensar?**
+Quais são os principais componentes envolvidos na solução.
+Como o problema em questão foi dividido em partes menores.
+Quais são os envolvidos diretamente e indiretamente na solução.
+
+**16. Quais são os padrões essenciais no diagrama?**
+Padrão de segmentação por camadas (Apresentação, Autenticação/Autorização, Cache, Camada de negócio e a rede DREX).
+
+**17. Existem padrões ocultos?**
+Os seguintes elementos não estão explícitos no desenho:
+
+- Padrão EDA (Event Driven Architecture) para mensageria e integração com os demais sistemas interessados nos eventos.
+- Utilização de Data Lake e Big Data para repositório de dados corporativo e utilização de Analytics.
+
+**18. Qual é o Metamodelo?**
+O metamodelo utilizado foi o C4.
+
+**19. Pode ser discernido no diagrama único?**
+Não pode ser discernido pois o diagrama C4 requer ao menos 3 níveis para representar a solução.
+
+**20. O diagrama está completo?**
+Não, uma vez que há itens de infraestrutura e tecnologia que não estão representados no diagrama. 
+
+**21. Poderia ser simplificado e ainda assim ser eficaz?**
+Não, uma vez que já está em um formato o mais enxuto possível de forma que não haja perda de informações relevantes.
+
+**22. Houve alguma discussão importante que vocês tiveram como equipe?**
+- Qual a diferença entre Drex e Real Tokenizado?
+- Qual seria o modelo de negócio que iríamos seguir para utilização do DREX.
+- Como a utilização de uma moeda digital pode diminuir fraudes fiscais.
+- Por que o Banco Central precisa das instituições financeiras? Quais seriam os impactos para a economia se não participassem?
+- A popularização do DREX pode facilitar a reforma tributária?
 
 
