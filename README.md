@@ -13,7 +13,8 @@ Trabalho de conclusão da disciplina **Arquitetura da Escolha (UX, Design Thinki
 - Sandro Pinheiro Lopes
 
 TÓPICOS ABORDADOS:
-[Contexto Geral](#contexto-geral)
+- [Contexto Geral](#contexto-geral)
+- 
 
 ## <a id="contexto-geral" />**CONTEXTO GERAL**
 
@@ -29,7 +30,7 @@ CBDC de atacado (wCBDC): A wCBDC é usada por instituições financeiras para li
 
 CDBC's são diferentes de criptomoedas, já que no segundo caso, as mesmas não são emitidas e apoiadas por um banco central - e sim por empresas privadas. No entanto, ambas assemelham-se no aspecto tecnológico, já que podem ser executadas em tecnologia de razão distribuída, o que significa que centenas de dispositivos em todo o mundo são responsáveis ​​por realizar e verificar transações. Uma forma de criptomoeda, uma stablecoin, pode ser atrelada a uma moeda fiduciária.
 
-**CENÁRIO GLOBAL E PRINCIPAIS HIGHLIGHTS**
+## <a id="cenario-highlights" />**CENÁRIO GLOBAL E PRINCIPAIS HIGHLIGHTS**
 
 134 países e uniões monetárias, representando 98% do PIB global, estão explorando uma CBDC. Em maio de 2020, esse número era de apenas 35. Atualmente, 66 países estão em fase avançada de exploração — desenvolvimento, piloto ou lançamento.
 
@@ -45,7 +46,7 @@ _Fonte: Atlantic Council (CDBC Tracker)_
 
 - Todos os estados-membros originais do BRICS — Brasil, Rússia, Índia, China e África do Sul — estão pilotando um CBDC. Desde o ano passado, o BRICS tem promovido ativamente o desenvolvimento de um sistema de pagamentos alternativo ao dólar.
 
-**VANTAGENS E DESAFIOS NA ADOÇÃO**
+## <a id="vantagens-desafios" />**VANTAGENS E DESAFIOS NA ADOÇÃO**
 
 Há muitas razões para explorar **moedas digitais**, e a motivação de diferentes países para emitir CBDCs depende de sua situação econômica:
 
@@ -63,7 +64,7 @@ As CBDCs também carregam riscos operacionais, pois são vulneráveis ​​a at
 
 As CBDCs exigem uma estrutura regulatória complexa, incluindo privacidade, proteção ao consumidor e padrões antilavagem de dinheiro, que precisam ser tornados mais robustos antes da adoção dessa tecnologia.
 
-**DREX - O REAL DIGITAL**
+## <a id="drex-real-digital" />**DREX - O REAL DIGITAL**
 
 O DREX é a primeira moeda digital oficial do país. A iniciativa do Banco Central do Brasil se trata de uma extensão da nossa moeda física, e a partir dela, será possível efetuar transações em contexto digital.
 
@@ -288,7 +289,7 @@ Resposta contida nas questões seguintes (27, 28 e 29)
 
 **32. Gravar um vídeo explicando o projeto como um todo e desenhos.**
 
-Link da gravação do vídeo (plataforma da FIAP)
+<a href="https://fiapcom-my.sharepoint.com/:v:/g/personal/rm356251_fiap_com_br/EUvQlzF3qRxFp4K9ZdJXPFgBVXj6cZUlp88ymWi1g2L1ow?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=hdZQCJ">Link da gravação do vídeo (plataforma da FIAP)</a>
 
 **REFERÊNCIAS E FONTES DE PESQUISA**
 
