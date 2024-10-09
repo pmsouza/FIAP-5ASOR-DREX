@@ -1,9 +1,6 @@
 # FIAP - MBA em Arquitetura de Soluções
 Trabalho de conclusão da disciplina **Arquitetura da Escolha (UX, Design Thinking e Modern Web)**
 
-To go to a section on the same page:
-[text](#contexto-geral)
-
 **Turma:** 5ASOR
 
 **Professor:** Leonardo Carneiro Pinho
@@ -14,6 +11,9 @@ To go to a section on the same page:
 - Flávia Mendanha
 - Phillipe Mutschaeweski
 - Sandro Pinheiro Lopes
+
+TÓPICOS ABORDADOS:
+[Contexto Geral](#contexto-geral)
 
 ## <a id="contexto-geral" />**CONTEXTO GERAL**
 
