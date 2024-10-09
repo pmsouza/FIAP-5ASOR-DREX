@@ -230,6 +230,7 @@ Não, uma vez que já está em um formato o mais enxuto possível de forma que n
 
 **22. Houve alguma discussão importante que vocês tiveram como equipe?**
 
+- Quais as diferenças entre PIX e DREX?
 - Qual a diferença entre Drex e Real Tokenizado?
 - Qual seria o modelo de negócio que iríamos seguir para utilização do DREX.
 - Como a utilização de uma moeda digital pode diminuir fraudes fiscais.
