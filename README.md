@@ -211,7 +211,7 @@ Os seguintes elementos não estão explícitos no desenho:
 
 **18. Qual é o Metamodelo?**
 
-O metamodelo utilizado foi o C4.
+O metamodelo utilizado foi o C4 Model.
 
 **19. Pode ser discernido no diagrama único?**
 
@@ -249,6 +249,7 @@ Não, uma vez que já está em um formato o mais enxuto possível de forma que n
 Não, uma vez que nos baseamos na documentação do DREX fornecida pelo Banco Central do Brasil.
 
 **26. Desenhe 3 arquiteturas com o projeto que você desenvolveu na aula em cada uma das camadas do C4? (Subir somente a imagem jpg/jpeg)**
+
 Resposta contida nas questões seguintes (27, 28 e 29)
 
 **27. Nível Contexto**
@@ -277,3 +278,37 @@ Resposta contida nas questões seguintes (27, 28 e 29)
 
 **32. Gravar um vídeo explicando o projeto como um todo e desenhos.** 
 Link da gravação na plataforma da FIAP
+
+**REFERÊNCIAS E FONTES DE PESQUISA**
+
+**Atlantic Council - CDBC Tracker**
+
+https://www.atlanticcouncil.org/cbdctracker/
+
+**Atlantic Council - The Basics of CDBCs**
+
+https://www.atlanticcouncil.org/blogs/econographics/the-basics-of-central-bank-digital-currency-cbdc/
+
+**Blog Nubank - CDBC o que é e como funciona**
+
+https://blog.nubank.com.br/cbdc-o-que-e-como-funciona/
+
+**PWC - DREX redefine o futuro do dinheiro (documento PDF)**
+
+https://www.strategyand.pwc.com/br/pt/relatorios/DREX-redefine-o-futuro-do-dinheiro_Strategy_2024.pdf
+
+**Sensedia - Entenda o que é DREX**
+
+https://www.sensedia.com.br/post/entenda-o-que-e-o-drex
+
+**PWC - CDBC and money evolution**
+
+https://www.pwc.com/us/en/industries/financial-services/library/cbdc-money-evolution.html
+
+**Cashway - DREX vs PIX**
+
+https://cashway.io/drex-vs-pix/
+
+**Exame - Drex: 35% das empresas estão se preparando para a chegada do real digital**
+
+https://exame.com/future-of-money/drex-35-das-empresas-estao-se-preparando-para-a-chegada-do-real-digital/
