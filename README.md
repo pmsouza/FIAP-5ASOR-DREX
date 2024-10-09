@@ -300,7 +300,7 @@ https://www.pwc.com/us/en/industries/financial-services/library/cbdc-money-evolu
 
 **PWC - DREX redefine o futuro do dinheiro (documento PDF)**
 
-https://www.strategyand.pwc.com/br/pt/relatorios/DREX-redefine-o-futuro-do-dinheiro_Strategy_2024.pdf
+https://www.strategyand.pwc.com/br/pt/relatorios/Drex-redefine-o-futuro-do-dinheiro_Strategy_2024.pdf
 
 **Sensedia - Entenda o que é DREX**
 
