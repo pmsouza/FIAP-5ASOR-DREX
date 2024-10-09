@@ -249,12 +249,27 @@ Não, uma vez que já está em um formato o mais enxuto possível de forma que n
 Não, uma vez que nos baseamos na documentação do DREX fornecida pelo Banco Central do Brasil.
 
 **26. Desenhe 3 arquiteturas com o projeto que você desenvolveu na aula em cada uma das camadas do C4? (Subir somente a imagem jpg/jpeg)**
+Resposta contida nas questões seguintes (27, 28 e 29)
 
 **27. Nível Contexto**
 
+![img-q27-contexto](https://github.com/user-attachments/assets/31917e73-1cc8-4a03-a285-56ac9d176875)
+
 **28. Nível Container**
 
+![img-q28-container3](https://github.com/user-attachments/assets/121d332e-1661-416d-978a-0fca5fe84127)
+
+![img-q28-container2](https://github.com/user-attachments/assets/dc297aca-e8d8-4e4c-9a32-d2279288a9d9)
+
+![img-q28-container1](https://github.com/user-attachments/assets/0cca810b-97f4-4e5a-b824-0cba1162aebe)
+
 **29. Nível Componente**
+
+![img-q29-componente3](https://github.com/user-attachments/assets/2b9f5173-fe65-4fbe-aff2-9a595bcbee09)
+
+![img-q29-componente2](https://github.com/user-attachments/assets/55de1b3c-8e54-4544-8bf1-fda7169938f9)
+
+![img-q29-componente1](https://github.com/user-attachments/assets/3bf87784-a47c-4b3a-8ce5-4ff0560fc183)
 
 **30. Code (Opcional)**
 
