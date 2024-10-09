@@ -1,8 +1,11 @@
-# FIAP-5ASOR-DREX
-MBA FIAP (Arquitetura de Soluções) - Trabalho de Conclusão de Arquitetura da Escolha (UX, Design Thinking e Modern Web)
+# FIAP - MBA em Arquitetura de Soluções
+Trabalho de conclusão da disciplina **Arquitetura da Escolha (UX, Design Thinking e Modern Web)**
 
-Leonardo Carneiro Pinho
-EQUIPE
+**Turma:** 5ASOR
+
+**Professor:** Leonardo Carneiro Pinho
+
+**EQUIPE**
 - Alex Souza Silva
 - Eudes Machado
 - Flávia Mendanha
