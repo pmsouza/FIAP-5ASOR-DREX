@@ -22,7 +22,7 @@ Trabalho de conclusão da disciplina **Arquitetura da Escolha (UX, Design Thinki
 - [DREX - O Real Digital](#drex-real-digital)
 - [Etapas do Trabalho](#etapas-trabalho)
 
-## <a id="contexto-geral" />**CONTEXTO GERAL**
+## <a id="contexto-geral" />**CONTEXTO GERAL DE CDBCs**
 
 Atualmente, mais de 130 países e uniões monetárias, representando 98% do PIB global, estão explorando Central Bank Digital Currencies, ou Moeda Digital Emitida por Banco Central, em tradução livre. 
 
@@ -36,7 +36,7 @@ CBDC de atacado (wCBDC): A wCBDC é usada por instituições financeiras para li
 
 CDBC's são diferentes de criptomoedas, já que no segundo caso, as mesmas não são emitidas e apoiadas por um banco central - e sim por empresas privadas. No entanto, ambas assemelham-se no aspecto tecnológico, já que podem ser executadas em tecnologia de razão distribuída, o que significa que centenas de dispositivos em todo o mundo são responsáveis ​​por realizar e verificar transações. Uma forma de criptomoeda, uma stablecoin, pode ser atrelada a uma moeda fiduciária.
 
-## <a id="cenario-highlights" />**CENÁRIO GLOBAL E PRINCIPAIS HIGHLIGHTS**
+## <a id="cenario-highlights" />**CENÁRIO GLOBAL DAS CDBCs E PRINCIPAIS HIGHLIGHTS**
 
 134 países e uniões monetárias, representando 98% do PIB global, estão explorando uma CBDC. Em maio de 2020, esse número era de apenas 35. Atualmente, 66 países estão em fase avançada de exploração — desenvolvimento, piloto ou lançamento.
 
@@ -52,7 +52,7 @@ _Fonte: Atlantic Council (CDBC Tracker)_
 
 - Todos os estados-membros originais do BRICS — Brasil, Rússia, Índia, China e África do Sul — estão pilotando um CBDC. Desde o ano passado, o BRICS tem promovido ativamente o desenvolvimento de um sistema de pagamentos alternativo ao dólar.
 
-## <a id="vantagens-desafios" />**VANTAGENS E DESAFIOS NA ADOÇÃO**
+## <a id="vantagens-desafios" />**VANTAGENS E DESAFIOS NA ADOÇÃO DE CDBCs**
 
 Há muitas razões para explorar **moedas digitais**, e a motivação de diferentes países para emitir CBDCs depende de sua situação econômica:
 
