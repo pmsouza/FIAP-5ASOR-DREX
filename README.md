@@ -7,14 +7,14 @@ Trabalho de conclusão da disciplina **Arquitetura da Escolha (UX, Design Thinki
 
 **Tema:** DREX - Real Digital
 
-**EQUIPE**
+**Equipe**
 - Alex Souza Silva
 - Eudes Machado
 - Flávia Mendanha
 - Phillipe Mutschaeweski
 - Sandro Pinheiro Lopes
 
-**TÓPICOS ABORDADOS:**
+**Tópicos Abordados:**
 
 - [Contexto Geral de CDBCs](#contexto-geral)
 - [Cenário Global das CDBCs e Principais Highlights](#cenario-highlights)
