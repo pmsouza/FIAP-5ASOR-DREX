@@ -234,7 +234,8 @@ Não, uma vez que já está em um formato o mais enxuto possível de forma que n
 - Qual a diferença entre Drex e Real Tokenizado?
 - Qual seria o modelo de negócio que iríamos seguir para utilização do DREX.
 - Como a utilização de uma moeda digital pode diminuir fraudes fiscais.
-- Por que o Banco Central precisa das instituições financeiras? Quais seriam os impactos para a economia se não participassem?
+- Por que o Banco Central precisa das instituições financeiras?
+- Quais seriam os impactos para a economia se não participassem?
 - A popularização do DREX pode facilitar a reforma tributária?
 
 **23. Que decisões sua equipe teve dificuldade para tomar?**
