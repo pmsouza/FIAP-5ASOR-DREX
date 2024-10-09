@@ -276,8 +276,9 @@ Resposta contida nas questões seguintes (27, 28 e 29)
 
 **31. Validar no checklist (opcional)**
 
-**32. Gravar um vídeo explicando o projeto como um todo e desenhos.** 
-Link da gravação na plataforma da FIAP
+**32. Gravar um vídeo explicando o projeto como um todo e desenhos.**
+
+Link da gravação do vídeo (plataforma da FIAP)
 
 **REFERÊNCIAS E FONTES DE PESQUISA**
 
@@ -293,6 +294,10 @@ https://www.atlanticcouncil.org/blogs/econographics/the-basics-of-central-bank-d
 
 https://blog.nubank.com.br/cbdc-o-que-e-como-funciona/
 
+**PWC - CDBC and money evolution**
+
+https://www.pwc.com/us/en/industries/financial-services/library/cbdc-money-evolution.html
+
 **PWC - DREX redefine o futuro do dinheiro (documento PDF)**
 
 https://www.strategyand.pwc.com/br/pt/relatorios/DREX-redefine-o-futuro-do-dinheiro_Strategy_2024.pdf
@@ -300,10 +305,6 @@ https://www.strategyand.pwc.com/br/pt/relatorios/DREX-redefine-o-futuro-do-dinhe
 **Sensedia - Entenda o que é DREX**
 
 https://www.sensedia.com.br/post/entenda-o-que-e-o-drex
-
-**PWC - CDBC and money evolution**
-
-https://www.pwc.com/us/en/industries/financial-services/library/cbdc-money-evolution.html
 
 **Cashway - DREX vs PIX**
 
