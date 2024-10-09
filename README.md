@@ -18,6 +18,7 @@ Trabalho de conclusão da disciplina **Arquitetura da Escolha (UX, Design Thinki
 - [Cenário Global das CDBCs e Principais Highlightsl](#cenario-highlights)
 - [Vantagens e Desafios na adoção de CDBCs](#vantagens-desafios)
 - [DREX - O Real Digital](#drex-real-digital)
+- [DREX - O Real Digital](#etapas-trabalho)
 
 ## <a id="contexto-geral" />**CONTEXTO GERAL**
 
@@ -80,6 +81,8 @@ Abaixo, a visão dos principais marcos de implantação do DREX:
 <img width="557" alt="img-roadmap-drex" src="https://github.com/user-attachments/assets/d0024d21-6235-4316-933d-0c545b4a61df">
 
 _Fonte: Sensedia (Entenda o que é o Drex, o Real Digital, e os seus impactos para o setor financeiro)_
+
+## <a id="etapas-trabalho" />**ETAPAS DO TRABALHO**
 
 **1. Montar um Story Telling sobre o problema que você resolve e definir o tema**
 
