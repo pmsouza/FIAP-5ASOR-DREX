@@ -5,6 +5,8 @@ Trabalho de conclusão da disciplina **Arquitetura da Escolha (UX, Design Thinki
 
 **Professor:** Leonardo Carneiro Pinho
 
+**Tema:** DREX - Real Digital
+
 **EQUIPE**
 - Alex Souza Silva
 - Eudes Machado
