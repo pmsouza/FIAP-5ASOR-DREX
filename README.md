@@ -15,7 +15,7 @@ Trabalho de conclusão da disciplina **Arquitetura da Escolha (UX, Design Thinki
 **TÓPICOS ABORDADOS:**
 
 - [Contexto Geral de CDBCs](#contexto-geral)
-- [Cenário Global das CDBCs e Principais Highlightsl](#cenario-highlights)
+- [Cenário Global das CDBCs e Principais Highlights](#cenario-highlights)
 - [Vantagens e Desafios na adoção de CDBCs](#vantagens-desafios)
 - [DREX - O Real Digital](#drex-real-digital)
 - [Etapas do Trabalho](#etapas-trabalho)
