@@ -32,6 +32,8 @@ CDBC's são diferentes de criptomoedas, já que no segundo caso, as mesmas não 
 
 <img width="575" alt="img-mapa-cdbc-mundo" src="https://github.com/user-attachments/assets/6819fee9-2840-4bb2-bc8c-5822a95167c5">
 
+_Fonte: Atlantic Council (CDBC Tracker)_
+
 - Cada país do G20 está explorando uma CBDC, com 19 deles em estágios avançados de exploração de CBDC. Destes, 13 países já estão no estágio piloto. Isso inclui Brasil, Japão, Índia, Austrália, Rússia e Turquia.
 
 - 3 países lançaram totalmente uma CBDC — Bahamas, Jamaica e Nigéria. Na Nigéria e nas Bahamas, a emissão de CBDC aumentou substancialmente. Todos os três países estão focados em expandir o alcance de suas CBDCs de varejo domesticamente.
