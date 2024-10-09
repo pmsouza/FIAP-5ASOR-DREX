@@ -12,9 +12,12 @@ Trabalho de conclusão da disciplina **Arquitetura da Escolha (UX, Design Thinki
 - Phillipe Mutschaeweski
 - Sandro Pinheiro Lopes
 
-TÓPICOS ABORDADOS:
-- [Contexto Geral](#contexto-geral)
-- 
+**TÓPICOS ABORDADOS:**
+
+- [Contexto Geral de CDBCs](#contexto-geral)
+- [Cenário Global das CDBCs e Principais Highlightsl](#cenario-highlights)
+- [Vantagens e Desafios na adoção de CDBCs](#vantagens-desafios)
+- [DREX - O Real Digital](#drex-real-digital)
 
 ## <a id="contexto-geral" />**CONTEXTO GERAL**
 
