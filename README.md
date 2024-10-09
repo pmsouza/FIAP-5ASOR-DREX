@@ -7,7 +7,7 @@ Trabalho de conclusão da disciplina **Arquitetura da Escolha (UX, Design Thinki
 
 **Tema:** DREX - Real Digital
 
-**Equipe**
+**Equipe:**
 - Alex Souza Silva
 - Eudes Machado
 - Flávia Mendanha
