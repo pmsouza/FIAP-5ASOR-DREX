@@ -295,7 +295,7 @@ Resposta contida nas questões seguintes (27, 28 e 29)
 
 **32. Gravar um vídeo explicando o projeto como um todo e desenhos.**
 
-<a href="https://fiapcom-my.sharepoint.com/:v:/g/personal/rm356251_fiap_com_br/EUvQlzF3qRxFp4K9ZdJXPFgBVXj6cZUlp88ymWi1g2L1ow?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=hdZQCJ">Link da gravação do vídeo (plataforma da FIAP)</a>
+<a href="https://fiapcom-my.sharepoint.com/:v:/r/personal/rm356251_fiap_com_br/Documents/Grava%C3%A7%C3%B5es/Reuni%C3%A3o%20em%20FIAP%20_%20Startup%20One-20241008_213427-Grava%C3%A7%C3%A3o%20de%20Reuni%C3%A3o.mp4?csf=1&web=1&e=0SqSsg">Link da gravação do vídeo (plataforma da FIAP)</a>
 
 **REFERÊNCIAS E FONTES DE PESQUISA**
 
