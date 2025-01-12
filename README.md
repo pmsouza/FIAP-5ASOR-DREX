@@ -3,7 +3,7 @@ Trabalho de conclusão da disciplina **Arquitetura da Escolha (UX, Design Thinki
 
 **Turma:** 5ASOR
 
-**Professor:** [Leonardo Carneiro Pinho] (https://www.linkedin.com/in/leonardo-pinho1/)
+**Professor:** [Leonardo Carneiro Pinho](https://www.linkedin.com/in/leonardo-pinho1/)
 
 **Tema:** DREX - Real Digital
 
